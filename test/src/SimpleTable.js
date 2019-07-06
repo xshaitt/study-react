@@ -36,4 +36,5 @@ class SimpleTable extends Component {
         )
     }
 }
+
 export default SimpleTable
