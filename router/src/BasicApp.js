@@ -69,7 +69,7 @@ function Topics({ match }) {
                 path={match.path}
                 render={() => <h3>Please select a topic.</h3>}
             />
-            {/*定义了一个子路 由的根路由*/}
+            {/*定义了一个子路 由 的根路由*/}
         </div>
     );
 }
